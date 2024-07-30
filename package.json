@@ -1,0 +1,14 @@
+{
+  "name": "client-certificates-with-playwright-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0-alpha-2024-07-30",
+    "@types/node": "^22.0.0"
+  }
+}
